@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pwd --help
+sudo --help
+chmod --help
+chmod --help
+clear --help
+cd --help
+sudo --help
+chmod --help
+sudo --help
+ls --help
+sort --help
+ls --help
+id --help
+cd --help
+sudo --help
+who --help
+sudo --help
+sudo --help
+cd --help
+cd --help
+man --help
+touch --help
+ls --help
+cd --help
+chmod --help
+sudo --help
+touch --help
+who --help
+sudo --help
+chmod smr1 go-r
+man chmod
+ln -s /media/compartida CarpetaCompartida
+ls
+sudo apt install linux-headers-$(uname -r)build-essential dkms
+touch miscript.sh | echo pwd |echo .ficheronuevo
+sudo addgroup sistemas
+sudo finger
+gedit listado.txt 
+chmod 777 /home/examen/grupo_trabajo/
+chmod 444 /home/examen/grupo_trabajo/
+cd  /home/examen/grupo_trabajo/proyectos
+man chmod
+cat miscript.sh 
+cat listado.txt 
+sudo apt install linux-headers-$(uname -r) build-essential dkms
+sudo ./VBox
+sudo adduser examen vboxsf
+sort | grep -w San Javier | cut -d; -f3,4 > edad_san_javier
+sudo adduser presup01 presupuesto
+cat miscript.sh | echo pwd > miscript.sh | echo .ficheronuevo >> miscript.sh 
+sudo apt-get update
+./ miscript.sh 
+sudo .
+sudo su
+zip p1 p2 p3 > p1.zip
+ls -a 
+who
+sudo finger
+cd
+rm smr1
+clear
+sort listado.txt -k2 -m;
+sudo ./VBoxLinuxAdditions.run 
+chmod go-r smr2
+id 
+ls
+cat presup01 >> presup
+touch smr{1..2} | touch daw{1..2}
+clear
+ls
+cd /home/examen/grupo_trabajo/
+rm smr2 
+zip /home/examen/grupo_trabajo/proyectos/
+cd
+tree
+zip  /home/examen/grupo_trabajo/proyectos p1 p2 p3
+sudo adduser presup01
+tree
+cd confidencial/
+ln /home/examen/grupo_trabajo/proyectos/p1/descripcion.txt enlaceFichero
+sudo apt install gedit
+cd passwd
+ls -i /home/examen/grupo_trabajo/
+cd  /home/examen/grupo_trabajo/proyectos p1 p2 p3
+clear
+cat listado.txt 
+finger
+cd
+cd ..
+cd
+ls
+ls
+cd  /home/examen/grupo_trabajo/proyectos
+sudo apt install finger
+man grep
+sudo adduser operador
+mkdir confidencial
+sudo passwd root
+chmod 700 /home/examen/confidencial/
+ls
+sudo passwd presup01
+clear
+man ls
+ls -l
+id root
+sudo addgroup presupuesto
+clear
+cat miscript.sh | echo pwd > miscript.sh | .ficheronuevo >> miscript.sh 
+cd  /home/examen/grupo_trabajo/proyectos p1 p2 p2
+sort 
+mv /home/examen/grupo_trabajo/otros/ novedades
+ls
+ls -l
+ls
+touch miscript.sh | echo pwd |echo .ficheronuevo > miscript.sh 
+cd
+cd
+usermod -g operador

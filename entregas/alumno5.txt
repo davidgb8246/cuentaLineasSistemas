@@ -1,0 +1,193 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mv --help
+sudo --help
+sudo --help
+cat --help
+who --help
+chmod --help
+ls --help
+sudo --help
+cd --help
+sudo --help
+sudo --help
+sudo --help
+touch --help
+sudo --help
+sort --help
+sudo --help
+ln --help
+cat --help
+usermod --help
+tree --help
+chmod --help
+cleat --help
+man --help
+cd --help
+zip --help
+ls --help
+sudo --help
+mkdir --help
+cd --help
+cat --help
+cd --help
+ls --help
+history --help
+sudo --help
+cd --help
+history --help
+ls --help
+man grep
+finger
+cd
+sort listado.txt -k2 -m;
+cd
+cd
+sudo ./VBoxLinuxAdditions.run 
+ls
+man shadow
+id root
+sudo adduser operador
+rm smr1
+cat miscript.sh 
+who
+usermod -g operador sistemas
+sudo apt-get update
+zip /home/examen/grupo_trabajo/proyectos/
+chmod go-r smr1
+sudo addgroup presupuesto
+ls -l
+touch presup01
+cd /home/examen/grupo_trabajo/
+cat miscript.sh | echo pwd > miscript.sh | .ficheronuevo >> miscript.sh 
+ls
+ln -s /media/compartida CarpetaCompartida
+gedit listado.txt 
+cd /home/examen/grupo_trabajo/
+ls
+touch miscript.sh | echo pwd |echo .ficheronuevo
+gedit listado.txt 
+cd passwd
+cd
+clear
+clear
+chmod /home/
+ls
+ls -a
+sudo ./VBox
+sudo passwd root
+chmod -e 
+mv /home/examen/grupo_trabajo/otros/ novedades
+sudo addgroup sistemas
+sort who
+man usermod
+sudo adduser presup01
+chmod 777 /home/examen/grupo_trabajo/
+cat listado.txt 
+sudo .
+cd /media/examen/VBox_GAs_7.0.10/
+cat miscript.sh 
+usermod -g operador
+ls -a 
+chmod go-r smr2
+chmod 444 /home/examen/grupo_trabajo/
+sudo adduser presup01 presupuesto
+man chmod
+ls
+sudo finger
+tree
+touch miscript.sh | echo pwd |echo .ficheronuevo > miscript.sh 
+cd /home/examen/grupo_trabajo/
+ls
+touch smr{1..2} | touch daw{1..2}
+sort | grep -w San Javier | cut -d ; -f3,4 > edad_san_javier
+cleat
+clear
+cd  /home/examen/grupo_trabajo/proyectos p1 p2 p2
+cd  /home/examen/grupo_trabajo/proyectos
+cd
+zip  /home/examen/grupo_trabajo/proyectos p1 p2 p3
+sudo finger
+id 
+tree
+sudo passwd presup01
+sort listado.txt -k3 -m;
+cd confidencial/
+chmod smr1 go-r
+cd  /home/examen/grupo_trabajo/proyectos
+sort 
+ls -l
+sort listado.txt -k3 -m;
+cat miscript.sh | echo pwd > miscript.sh | echo .ficheronuevo >> miscript.sh 
+chmod 700 /home/examen/confidencial/
+sudo adduser examen vboxsf
+sudo apt install linux-headers-$(uname -r) build-essential dkms
+sudo deluser operador
+ls
+ls
+ls
+touch smr{1..2}
+rm smr2 
+c
+nano listado.txt 
+./ miscript.sh 
+ls -l
+touch nominas
+sort groups
+sudo hostnamectl set-hostname dmg
+clear
+touch listado.txt
+sudo ./ miscript.sh 
+zip p1 p2 p3 > p1.zip
+ls
+ls
+sudo apt install finger
+man ls
+ln /home/examen/grupo_trabajo/proyectos/p1/descripcion.txt enlaceFichero
+chmod 740 miscript.sh 
+head -n 3 listado.txt 
+cat listado.txt 
+sudo apt install gedit
+clear
+cat presup01 >> presup
+cd ..
+sort | grep -w San Javier | cut -d; -f3,4 > edad_san_javier
+cd
+cd  /home/examen/grupo_trabajo/proyectos p1 p2 p3
