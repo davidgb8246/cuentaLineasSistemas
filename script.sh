@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "¡¡¡ ATENCIÓN !!!" 
-echo "A la hora de poner la ruta de la carpeta, tendrás que especificar siempre la "/" del final."
+echo -e "A la hora de poner la ruta de la carpeta, tendrás que especificar siempre la "/" del final.\n \n "
 
 echo Dime el nombre del archivo que contendrá las lineas invertidas por cada alumno
 read nombreTabla
